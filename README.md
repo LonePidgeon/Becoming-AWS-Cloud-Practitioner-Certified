@@ -1,11 +1,11 @@
-# Becoming an AWS Cloud Engineer
+# Becoming AWS Cloud Practitioner certified
 
 📚 A personal knowledge base and portfolio built while completing the **Restart program** — a hands-on path from tech beginner to job-ready cloud engineer.
 
 ## What I Learned
 
 - **Cloud Computing** — Deploying and managing infrastructure using core AWS services (EC2, S3, IAM, VPC, and more)
-- **Programming & Scripting** — Writing Python and Bash to automate tasks and manipulate data
+- **Scripting** — Writing Bash to automate tasks and manipulate data
 - **Databases & Storage** — Designing, building, and querying relational and NoSQL databases
 - **Networking & Security** — VPCs, subnets, VPNs, and security best practices
 - **Professional Skills** — Git & GitHub workflows, technical documentation, and collaborative problem-solving
