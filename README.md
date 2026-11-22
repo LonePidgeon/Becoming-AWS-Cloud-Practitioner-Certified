@@ -1,6 +1,6 @@
 # Becoming AWS Cloud Practitioner Certified
 
-📚 A personal knowledge base and portfolio built while completing the **Restart program** — a hands-on path from tech beginner to job-ready cloud engineer.
+📚 A personal knowledge base and portfolio built while completing the **Restart program** — a hands-on path from tech beginner to job-ready.
 
 ## 🏅 Verified AWS Badges
 
