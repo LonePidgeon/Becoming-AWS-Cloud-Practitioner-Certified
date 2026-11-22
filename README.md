@@ -33,7 +33,7 @@
 - **Networking & Security** — VPCs, subnets, VPNs, and security best practices
 - **Professional Skills** — Git & GitHub workflows, technical documentation, and collaborative problem-solving
 
-The program's focus isn't just *how* to use these tools — it's *why* they matter in real-world IT environments. Every concept here was reinforced through hands-on labs and projects.
+The program's focus isn't just *how* to use these tools — it's *why* they matter in real-world IT environments. Every concept here was reinforced through 69+ hands-on labs and projects.
 
 ## Why This Repo Exists
 
